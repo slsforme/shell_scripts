@@ -1,3 +1,3 @@
-# shell_scripts
+<!-- # shell_scripts -->
 
-Repository for usable shell scripts.
+Repository for usable (especially for crypto) shell scripts.
